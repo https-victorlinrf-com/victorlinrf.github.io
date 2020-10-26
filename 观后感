@@ -1,0 +1,16 @@
+<！DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <script language="JavaScript">
+   <!--var password="";password=prompt('请输入密码 (本网站需输入密码才可进入):','');
+   if (password != 'linlinlin')
+   {alert("密码不正确,无法进入本站!!");
+    window.opener=null; window.close();}// 密码不正确就关闭
+   //-->
+  </script>
+  </head>
+</html> 
+ <body>
+  <p style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！关于电影观后感：最牛逼的黑客，一定要懂得社会工程学：人类才是最大的bug哈哈哈.tip.我就随便做个网站玩玩</p>
+ </body> 
+</html> 
